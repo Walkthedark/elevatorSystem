@@ -1,0 +1,8 @@
+.x-inputText{ background-color:rgba(255, 255, 255, 0.8);}
+.form-control-feedback{ height:34px; line-height:34px; }
+.input_radius{
+	border-radius:15px;
+}
+.input_radius1{
+	border-radius:0px 15px 15px 0px;
+}
